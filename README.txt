@@ -1,2 +1,2 @@
 To run use the command: mvnw spring-boot:run
-<Dummy text for demonstration update1>
+<Dummy text for demonstration update>
